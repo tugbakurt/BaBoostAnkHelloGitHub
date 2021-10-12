@@ -14,4 +14,15 @@ Merhaba benim adım Tuğba, Ba-Boost ANKARA öğrencisiyim.
   ### Sınıf Listesi 
   -Github adı: galipyildiz [Galip Yıldız] (https://github.com/galipyildiz)
   -Github adı: BilgehanArici [Bilgehan Arıcı] (https://github.com/BilgehanArici)
-  -Github adı: sinaemre [Sina Emre Bekar ] ()
+  -Github adı: sinaemre [Sina Emre Bekar ] (https://github.com/sinaemre)
+  -Github adı: MAliRagipCakir [Muhammed Ali Ragıp Çakır] (https://github.com/)
+  -Github adı:kudretakpinar
+  -Github adı:ezgiyildirim21
+  -Github adı:tugbakurt
+  -Github adı:angun2serkan
+  -Github adı:handenurtok
+  -Github adı:sedaahi
+  koray95
+  BilgeTuna
+  AysegülCelk
+  omer
