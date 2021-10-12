@@ -12,7 +12,8 @@ Merhaba benim adım Tuğba, Ba-Boost ANKARA öğrencisiyim.
   
   tek çizgi liste elemanı !!!
   ### Sınıf Listesi 
- - Github adı:  galipyildiz [Galip Yıldız] (https://github.com/galipyildiz)
+  - Github adı: **yigith [Yiğit Hacıefendioğlu](https://github.com/yigith)**
+ - Github adı:  galipyildiz [Galip Yıldız](https://github.com/galipyildiz)
  - Github adı:  BilgehanArici [Bilgehan Arıcı](https://github.com/BilgehanArici)
  - Github adı:  sinaemre [Sina Emre Bekar ](https://github.com/sinaemre)
  - Github adı:  MAliRagipCakir [Muhammed Ali Ragıp Çakır](https://github.com/MAliRagipCakir)
